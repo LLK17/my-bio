@@ -1,0 +1,57 @@
+body{
+  font-family: 'Arvo', serif;
+    background-color: green;
+    color: blue;
+    text-align: center;
+    margin-bottom:30
+
+  }
+
+h1{ margin: 0;
+    color: blue;
+    font-size: 100px;
+
+}
+
+
+.paragraph{
+  color: midnightblue;
+  font-size: 35px
+}
+
+.heading{
+  background-color: goldenrod;
+  color: darkgreen;
+  width: 100%;
+  transition: 3s;
+
+}
+
+.heading:hover{
+  background-color: gold;
+
+}
+#link{
+  font-size: 30px
+}
+
+
+
+button {
+  width: 150px;
+  height: 100px;
+  background-color: navy;
+  color: goldenrod;
+  font-size: 25px;
+  font-family: 'Bahiana', cursive;
+
+}
+
+button:hover {
+width: 200px;
+height: 150px;
+background-color: gold;
+transition: 1.5s;
+color: black;
+
+}
