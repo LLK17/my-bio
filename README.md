@@ -1,2 +1,2 @@
 # my-bio
-A copy of the first webpage I made!
+A copy of the first webpage I made
